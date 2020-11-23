@@ -2,6 +2,15 @@
 
 ### 简单测试流程
 
+#### 环境准备
+* Docker
+* Docker-Compose
+* IntelliJ IDEA
+* docker镜像
+  * fabric-ca:1.4
+  * fabric-orderer:1.4
+  * fabric-peer:1.4
+
 #### 1、启动网络
 
 使用如下命令clone[代码库](https://github.com/ldstyle8/fabCar.git):
